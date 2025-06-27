@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 "# stock-price-prediction-lstm" 
 =======
 # 📈 Stock Price Prediction using LSTM (Long Short-Term Memory)
@@ -85,4 +85,4 @@ Can we accurately predict the **next day’s closing price** of a stock based on
 pip install -r requirements.txt
 streamlit run web_stock_price_predictor.py
 
->>>>>>> e8dcb9417e6bac148952335f0da9a77eb908c3eb
+
