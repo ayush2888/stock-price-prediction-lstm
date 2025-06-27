@@ -1,6 +1,5 @@
 
-"# stock-price-prediction-lstm" 
-=======
+
 # 📈 Stock Price Prediction using LSTM (Long Short-Term Memory)
 
 ## 🧠 Overview
